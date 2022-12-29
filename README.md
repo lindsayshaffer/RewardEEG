@@ -1,2 +1,2 @@
-# RewardEEG
-Code to generate experiment, pre-processing steps, analysis, and figures for Shaffer et al. (2022) "The reward positivity does not encode current reward value."
+# Repository for Shaffer et al. (in preparation) - "The reward positivity does not encode current reward value."
+Code to generate experiment, pre-processing steps, analysis, and figures for manuscript."
