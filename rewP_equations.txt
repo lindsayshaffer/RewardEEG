@@ -1,0 +1,4 @@
+b16 = (b6-b9) label non-devalued feedback (RewP)
+b17 = (b7-b9) label devalued feedback (RewP)
+b18 = (b6-b7) label nondev - dev waveform
+b19 = (b7-b6) label dev - nondev waveform
