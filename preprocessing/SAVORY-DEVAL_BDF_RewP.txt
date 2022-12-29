@@ -1,0 +1,59 @@
+bin 1
+Doors choice - present
+.{10}
+
+bin 2
+Doors choice - left
+.{11}
+
+bin 3
+Doors choice - middle
+.{12}
+
+bin 4
+Doors choice - right
+.{13}
+
+bin 5
+Doors choice - All
+.{11;12;13}
+
+bin 6
+Non-devalued feedback
+.{21}
+
+bin 7
+Devalued feedback
+.{22}
+
+bin 8
+Non-devalued & devalued feedback
+.{21;22}
+
+bin 9
+No feedback
+.{23}
+
+bin 10
+Non-devalued outcome
+.{31}
+
+bin 11
+Devalued outcome
+.{32}
+
+bin 12
+Non-devalued & devalued outcome
+.{31;32}
+
+bin 13
+No outcome
+.{33}
+
+bin 14
+EEG block start
+.{251}
+
+bin 15
+EEG block end
+.{250}
